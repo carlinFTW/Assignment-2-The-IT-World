@@ -7,7 +7,7 @@
 header
 {
 	background-image:url("Background.jpg");
-	height: 100vh;
+	height: 150vh;
 	background-size: cover;
 	background-position: center;
 }
@@ -17,6 +17,11 @@ header
 	float: left;
 	list-style: none;
 	margin-top: 30px;
+}
+p
+{
+	margin-right: 400px;
+	margin-left: 400px;
 }
 
 .main-nav li
@@ -52,6 +57,15 @@ header
 	width: 1200px;
 	margin-left: 0;
 	margin-top: 0;
+}
+
+h1
+{
+	color: black;
+	text-transform: uppercase;
+	font-size: 30px;
+	text-align: center;
+	
 }
 
 
